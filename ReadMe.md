@@ -4,6 +4,8 @@
   
   ## Description
   This Application allows one to easily create a unique Read Me inside of our terminal. Using Node we are able to utilize java script in the terminal and prompt a series of questions.  Using the answers from these questions we are able to forma function that will provide users there detailed read me in a seperate markdown file.
+    - ![image](https://github.com/JoshuaVaneps/Readme-Generator/assets/111782130/195f3554-1fdd-4d6f-a921-3302b3544c38)
+
   
   ## Table of Contents
   
@@ -20,6 +22,7 @@
   
   ## Usage Information 
   You can use this application completely through the terminal by installing node copying in the files and running node index.js once that command is entered.  you simply need to answer the prompts and you will provided  with the read me file
+  - ![ Instructional video:](https://drive.google.com/file/d/1OmN8S5UURJjXuCB07kpSf_TP0hHVw9U6/view)
   
   ## Contribution Guidelines
   please make all changes through push and pull requests. your requests will be looked over and reviewed by the development team and if deemed useful will be added to the app. Thank you aheadof time for your contributions
