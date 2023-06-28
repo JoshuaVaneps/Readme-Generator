@@ -22,7 +22,7 @@
   
   ## Usage Information 
   You can use this application completely through the terminal by installing node copying in the files and running node index.js once that command is entered.  you simply need to answer the prompts and you will provided  with the read me file
-  - ![ Instructional video:](https://drive.google.com/file/d/1OmN8S5UURJjXuCB07kpSf_TP0hHVw9U6/view)
+  - [ Instructional video ](https://drive.google.com/file/d/1OmN8S5UURJjXuCB07kpSf_TP0hHVw9U6/view)
   
   ## Contribution Guidelines
   please make all changes through push and pull requests. your requests will be looked over and reviewed by the development team and if deemed useful will be added to the app. Thank you aheadof time for your contributions
